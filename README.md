@@ -1,7 +1,7 @@
 # OOD4Tab
 ==============================
 
-This repository is the official code of "Out-of-distribution Reject Option Method for Dataset Shift Problem in Early Disease Onset Prediction".
+This repository is the official code of ["Out-of-distribution Reject Option Method for Dataset Shift Problem in Early Disease Onset Prediction"](https://www.nature.com/articles/s41598-025-01811-8) (Tosaki et al. Scientific Reports, 2025).
 
 <p align="center">
     <img src="./Fig1.png" alt="Overview Figure" width="750">
